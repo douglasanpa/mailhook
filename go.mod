@@ -1,4 +1,4 @@
-module github.com/ushis/mailhook
+module github.com/douglasanpa/mailhook
 
 go 1.14
 
